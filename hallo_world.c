@@ -4,7 +4,7 @@ int main()
 {
 	for(int i = 0; i < 3; i++)
 	{
-		printf(".....Hello, Novi Sad!!!/n");
+		printf("....Hello, Serbia!!!/n");
 	}
 	return 0;
 }

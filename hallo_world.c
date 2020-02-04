@@ -7,6 +7,7 @@ int main()
 	{
 		printf("....Hello, Serbia!!!/n");
 	}
-	printf("Pajic Branimir/n");
+	printf("Pajic Branimir");
+	printf("from Novi Sad");
 	return 0;
 }
